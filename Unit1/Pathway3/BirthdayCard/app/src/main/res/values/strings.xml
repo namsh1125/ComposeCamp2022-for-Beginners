@@ -16,4 +16,6 @@
   -->
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">벌써 생일?\n믿을 수 없다</string>
+    <string name="signature_text">- 승현</string>
 </resources>
