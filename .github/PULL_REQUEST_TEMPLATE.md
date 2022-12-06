@@ -7,10 +7,10 @@
 ## 완료한 코드랩
 완료한 코드랩을 체크 해주세요. 16개의 코드랩 중 12개 이상 완주하셔야 Compose Camp가 준비한 트래킹 완주 기념품을 배송해 드립니다.
 
-- [ ] Unit1/Pathway3/BirthdayCard
-- [ ] Unit1/Pathway3/ComposeArticle
-- [ ] Unit1/Pathway3/ComposeQuadrant
-- [ ] Unit1/Pathway3/TaskCompleted
+- [ ✔️ ] Unit1/Pathway3/BirthdayCard
+- [ ✔️ ] Unit1/Pathway3/ComposeArticle
+- [ ✔️ ] Unit1/Pathway3/ComposeQuadrant
+- [ ✔️ ] Unit1/Pathway3/TaskCompleted
 - [ ] Unit2/Pathway2/DiceRoller
 - [ ] Unit2/Pathway2/Lemonade
 - [ ] Unit2/Pathway3/TipTime
