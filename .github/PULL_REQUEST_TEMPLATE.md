@@ -11,11 +11,11 @@
 - [ ✔️ ] Unit1/Pathway3/ComposeArticle
 - [ ✔️ ] Unit1/Pathway3/ComposeQuadrant
 - [ ✔️ ] Unit1/Pathway3/TaskCompleted
-- [ ] Unit2/Pathway2/DiceRoller
-- [ ] Unit2/Pathway2/Lemonade
-- [ ] Unit2/Pathway3/TipTime
+- [ ✔️ ] Unit2/Pathway2/DiceRoller
+- [ ✔️ ] Unit2/Pathway2/Lemonade
+- [ ✔️ ] Unit2/Pathway3/TipTime
 - [ ] Unit2/Pathway3/ArtSpace
-- [ ] Unit3/Pathway2/AffirmationsCodelab
+- [ ✔️ ] Unit3/Pathway2/AffirmationsCodelab
 - [ ] Unit3/Pathway3/WoofCodelab
 - [ ] Unit4/Pathway1/DessertClicker
 - [ ] Unit4/Pathway1/Unscamble
